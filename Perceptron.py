@@ -9,7 +9,7 @@ class Perceptron:
         self._taxaAprendizagem = taxaAprendizagem
 
     # qual é a entrada da base treino ?
-    def treina(self,baseTreino):
+    def treina(self, baseTreino):
         continua = True
         while(continua):
             # oque é o erro inter ?
